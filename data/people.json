@@ -1,0 +1,80 @@
+{
+    "people": [
+        {
+            "name": "Adam Wright",
+            "education": [
+                {
+                    "institution": "NC State University",
+                    "startYear": 2001,
+                    "endYear": 2004,
+                    "degree": "Bachelor's, Computer Science"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "Megacorp",
+                    "startYear": 2001,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "name": "Joe Manfrey",
+            "education": [
+                {
+                    "institution": "Clemson University",
+                    "startYear": 1990,
+                    "endYear": 1995,
+                    "degree": "Bachelor's, Computer Science"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 1998,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "name": "Douglas Cho",
+            "education": [
+                {
+                    "institution": "University of NC, Chapel Hill",
+                    "startYear": 1990,
+                    "endYear": 1995,
+                    "degree": "Marketing"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "Food Inc.",
+                    "startYear": 1998,
+                    "title": "Software Developer"
+                }
+            ]
+        },
+        {
+            "name": "Allison Murray",
+            "education": [
+                {
+                    "institution": "University of Southern California",
+                    "startYear": 2001,
+                    "endYear": 2005,
+                    "degree": "Sociology"
+                }
+            ],
+
+            "workExperience": [
+                {
+                    "institution": "United Products",
+                    "startYear": 1998,
+                    "title": "Directory of IT"
+                }
+            ]
+        }
+    ]
+}
