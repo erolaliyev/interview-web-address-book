@@ -29,14 +29,12 @@ http://localhost:8080/api/people
   in alphabetical order.
 - When a person's name is clicked in the left panel, render the full profile in the right panel.
 - Update the `README.md` with any instructions for running the web application.
-- When you are done, send a pull request with your changes.
 
 ### Bonus Points
 - Add image URLs to the people data and render these photos in the profile
 - Make it possible to change sort order of people shown in directory panel
 
 ### Additional Notes
-- If you have any questions then [open an issue](https://github.com/philidem/address-book-exercise/issues)
 - Feel free to use any framework or library (or use vanilla JavaScript)
 - Feel free to modify `data/people.json` with any changes that you see fit.
 - Feel free to add additional routes to the express app by modifying `server.js`
