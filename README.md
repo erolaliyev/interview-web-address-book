@@ -1,19 +1,47 @@
-Programming Exercise: Address Book
----
+## Programming Exercise: Address Book
 
-## Setup
+## Setup Server
+
 1. Install NodeJS
 2. Install Dependencies
+
 ```bash
 npm install
 ```
 
 ## Run Server
+
 ```bash
 node server.js
 ```
 
+## Setup Client
+
+1. Navigate to client folder
+
+```bash
+cd client
+```
+
+2. Install Dependencies
+
+```bash
+npm install
+```
+
+## Start Client
+
+```bash
+npm start
+```
+
+- To run tests on client, simply run `npm test`
+
 ## URL Endpoints
+
+**Client**
+http://localhost:3000
+
 **Mockup:**
 http://localhost:8080/mockup/
 
@@ -21,6 +49,7 @@ http://localhost:8080/mockup/
 http://localhost:8080/api/people
 
 ## Instructions
+
 - Create a simple address book web application and use the given static
   HTML mockup (`mockup/index.html`) as a starting point or as inspiration.
 - Your web application should fetch people data from http://localhost:8080/api/people
@@ -33,14 +62,15 @@ http://localhost:8080/api/people
   (you can use `zip.sh` to create an archive of this project).
 
 ### Bonus Points
+
 - Add image URLs to the people data and render these photos in the profile
 - Make it possible to change sort order of people shown in directory panel
 - Allow searching for people by name
 
 ### Additional Notes
+
 - Feel free to use any available libraries or frameworks as needed.
 - Feel free to modify `data/people.json` with any changes that you see fit.
 - Feel free to add additional routes to the express app by modifying `server.js`
 - Your address book does not need to use the exact same CSS or HTML as provided
   by the mockup.
-
