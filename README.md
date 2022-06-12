@@ -35,7 +35,7 @@ npm install
 npm start
 ```
 
-- To run tests on client, simply run `npm test`
+- To run tests on client, run `npm test a`
 
 ## URL Endpoints
 
