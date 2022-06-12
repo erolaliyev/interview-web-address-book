@@ -1,80 +1,84 @@
 {
-    "people": [
-        {
-            "name": "Adam Wright",
-            "education": [
-                {
-                    "institution": "NC State University",
-                    "startYear": 2001,
-                    "endYear": 2004,
-                    "degree": "Bachelor's, Computer Science"
-                }
-            ],
+	"people": [
+		{
+			"name": "Adam Wright",
+			"imageURL": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"education": [
+				{
+					"institution": "NC State University",
+					"startYear": 2001,
+					"endYear": 2004,
+					"degree": "Bachelor's, Computer Science"
+				}
+			],
 
-            "workExperience": [
-                {
-                    "institution": "Megacorp",
-                    "startYear": 2001,
-                    "title": "Software Developer"
-                }
-            ]
-        },
-        {
-            "name": "Joe Manfrey",
-            "education": [
-                {
-                    "institution": "Clemson University",
-                    "startYear": 1990,
-                    "endYear": 1995,
-                    "degree": "Bachelor's, Computer Science"
-                }
-            ],
+			"workExperience": [
+				{
+					"institution": "Megacorp",
+					"startYear": 2001,
+					"title": "Software Developer"
+				}
+			]
+		},
+		{
+			"name": "Joe Manfrey",
+			"imageURL": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"education": [
+				{
+					"institution": "Clemson University",
+					"startYear": 1990,
+					"endYear": 1995,
+					"degree": "Bachelor's, Computer Science"
+				}
+			],
 
-            "workExperience": [
-                {
-                    "institution": "Food Inc.",
-                    "startYear": 1998,
-                    "title": "Software Developer"
-                }
-            ]
-        },
-        {
-            "name": "Douglas Cho",
-            "education": [
-                {
-                    "institution": "University of NC, Chapel Hill",
-                    "startYear": 1990,
-                    "endYear": 1995,
-                    "degree": "Marketing"
-                }
-            ],
+			"workExperience": [
+				{
+					"institution": "Food Inc.",
+					"startYear": 1998,
+					"title": "Software Developer"
+				}
+			]
+		},
+		{
+			"name": "Douglas Cho",
+			"imageURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"education": [
+				{
+					"institution": "University of NC, Chapel Hill",
+					"startYear": 1990,
+					"endYear": 1995,
+					"degree": "Marketing"
+				}
+			],
 
-            "workExperience": [
-                {
-                    "institution": "Food Inc.",
-                    "startYear": 1998,
-                    "title": "Software Developer"
-                }
-            ]
-        },
-        {
-            "name": "Allison Murray",
-            "education": [
-                {
-                    "institution": "University of Southern California",
-                    "startYear": 2001,
-                    "endYear": 2005,
-                    "degree": "Sociology"
-                }
-            ],
+			"workExperience": [
+				{
+					"institution": "Food Inc.",
+					"startYear": 1998,
+					"title": "Software Developer"
+				}
+			]
+		},
+		{
+			"name": "Allison Murray",
+			"imageURL": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+			"education": [
+				{
+					"institution": "University of Southern California",
+					"startYear": 2001,
+					"endYear": 2005,
+					"degree": "Sociology"
+				}
+			],
 
-            "workExperience": [
-                {
-                    "institution": "United Products",
-                    "startYear": 1998,
-                    "title": "Directory of IT"
-                }
-            ]
-        }
-    ]
+			"workExperience": [
+				{
+					"institution": "United Products",
+					"startYear": 1998,
+					"title": "Directory of IT"
+				}
+			]
+		}
+	]
 }
