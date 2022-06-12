@@ -1,0 +1,38 @@
+.container {
+	display: flex;
+}
+
+.peopleList {
+	border-right: 1px solid black;
+	display: flex;
+	flex-flow: column nowrap;
+}
+
+.peopleListLetter {
+	color: blue;
+	font-weight: bold;
+	margin: 5px;
+}
+
+.peopleListName {
+	margin: 5px;
+	cursor: pointer;
+}
+
+.searchBar {
+	width: 100%;
+}
+
+.inputBar {
+	width: 60%;
+	margin: 5px;
+}
+
+button {
+	cursor: pointer;
+}
+
+button:nth-child(3) {
+	width: 80%;
+	margin: 0 auto;
+}

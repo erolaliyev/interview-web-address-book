@@ -1,0 +1,38 @@
+img {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+
+.personContainer {
+	margin-left: 10px;
+	padding-top: 5px;
+}
+
+.personName {
+	font-weight: bold;
+	color: blue;
+	font-size: large;
+	margin: 5px;
+}
+
+.personDetails {
+	display: flex;
+	flex-flow: row nowrap;
+	padding: 0 5px;
+}
+
+.personDetailsYears {
+	font-weight: bold;
+	margin-right: 10px;
+}
+
+.personDetailsInstitution {
+	font-weight: bold;
+}
+
+p {
+	font-weight: bold;
+	color: blue;
+	margin: 5px;
+}
